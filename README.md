@@ -30,3 +30,12 @@ Marcação | @ | @xXLuisHenriqueXx
 
 ### Emojis
 [Acesse aqui](https://github.com/ikatyang)
+
+### Código
+```
+#include <iostream>
+
+main(){
+ cout >> "Hello world!";
+}
+```
