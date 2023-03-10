@@ -4,9 +4,9 @@
 ## Comandos Markdown
 ** Função ** | ** Comando ** | ** Saída
 ---|---|---|
-Negrito | ** ou __ |
-Itálico | * ou _ |
-Texto riscado | ~~ |
+Negrito | ** ou __ | **Teste**
+Itálico | * ou _ | _Teste_
+Texto riscado | ~~ | ~~Teste~~
 Texto marcado | ` | `Teste`
 Marcação | @ | @xXLuisHenriqueXx
 
