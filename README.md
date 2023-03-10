@@ -1,6 +1,32 @@
 # Olá, mundo!
  Repositório de teste para o curso de **Git e GitHHub**
 
-Repositório criado durante uma *aula ao vivo*.
+## Comandos Markdown
+** Função ** | ** Comando ** | ** Saída
+---|---|---|
+Negrito | ** ou __ |
+Itálico | * ou _ |
+Texto riscado | ~~ |
+Texto marcado | ` | `Teste`
+Marcação | @ | @xXLuisHenriqueXx
 
-Linha adicionada no site do GitHub!
+### Listas
+1. Text
+2. Text
+
+* Text
+  * Text
+
+- Text
+- Text
+
+### Lista de tarefas
+
+- [x] Criar página
+- [ ] Criar estilo
+
+### Links
+[Acesse meu GitHub](https://github.com/xXLuisHenriqueXx)
+
+### Emojis
+[Acesse aqui](https://github.com/ikatyang)
